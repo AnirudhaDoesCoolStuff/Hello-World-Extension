@@ -4,7 +4,6 @@ Welcome to **Hello Extensions**, a simple Chrome extension built as a starting p
 
 > 🔧 A minimal “Hello World” Chrome extension to get you started with browser extension development.
 
----
 
 ## 🚀 Features
 
@@ -13,8 +12,7 @@ Welcome to **Hello Extensions**, a simple Chrome extension built as a starting p
 - Simple and clean layout
 - Lightweight and beginner-friendly
 
----
-
+```
 ## 📁 File Structure
 
 hello-extensions/
@@ -23,8 +21,7 @@ hello-extensions/
 ├── popup.html # Popup UI
 ├── popup.js # JavaScript logic
 └── icons/ # Extension icon (optional)
-
----
+```
 
 ## 🧠 How It Works
 
@@ -32,7 +29,6 @@ hello-extensions/
 2. A popup appears with a greeting and a button.
 3. When the button is clicked, a message appears below it — showing your extension is working.
 
----
 
 ## 🛠️ Installation (Load into Chrome)
 
@@ -43,4 +39,3 @@ hello-extensions/
 5. Select the project folder.
 6. Done! You’ll see the extension icon in your Chrome toolbar.
 
----
